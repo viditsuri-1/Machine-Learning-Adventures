@@ -12,3 +12,6 @@ This repository contains various tasks and personal projects that I completed wh
      
      Url of the article scraped: https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
      
+**2. Practicing Pandas**
+   Understanding the usefulness of pandas in analysis and visualization of data.
+
